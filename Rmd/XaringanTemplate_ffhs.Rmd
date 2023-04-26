@@ -84,6 +84,11 @@ knitr::include_url('https://www.ffhs.ch/',height='530px')
 
 
 
+---
+class: title-slide
+
+# Title
+
 
 ---
 name: sampleslide
